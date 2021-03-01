@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+# site config
+.replit
+.vscode/
+
+# compiled
+*.exe
