@@ -4,5 +4,5 @@ file = open('money.txt')
 
 task = file
 print('${:,.2f} into currency is:'.format(task)
-print("task")
+print(task)
 
