@@ -3,6 +3,6 @@ class money:
 file = open('money.txt')
 
 task = file
-print('${:,.2f}'.format(task)
-
+print('${:,.2f} into currency is:'.format(task)
+print("task")
 
